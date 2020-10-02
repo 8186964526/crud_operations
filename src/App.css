@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.align { 
+  padding: 80px;
+    position: relative;
+    left: 320px;
+}
+.title {
+     position: relative;
+    right: 68px;
+    color: olive;
+    top: 28px;
+}
+.btn-align {
+  position: relative;
+    right: 371px;
+    width: 154px;
+    background: green;
+}
+
+.login {
+  position: relative;
+    padding: 50px;
+}
+.err-msg {
+  color: red;
+    position: relative;
+    left: 34px;
+}
+.table {
+  width: 90%;
+    max-width: 90%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    margin-left: 100px;
+    position: absolute;
+    top : 100px;
+}
+.back_to_login {
+  position: relative;
+  left: 530px;
+  top: 30px;
+} */
+
+.main_div{
+  position: relative;
+    left: 796px;
+    top: 19px;
+    font-size: xx-large;
+    font-family: initial;
+   
+}
+.nav_link_color{
+  color: black;
+  padding: 15px;
+}
+.table{
+  position: relative;
+    width: 60%;
+    left: 300px;
+    top: 116px;
+}
+.ant-btn{
+    position: relative;
+    top: 40px;
+    right: 518px;
+    border-radius: 25px;
+    padding: 10px;
+}
